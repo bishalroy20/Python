@@ -1,0 +1,1 @@
+print(numbers[2:6])
